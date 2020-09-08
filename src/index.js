@@ -38,7 +38,6 @@ const MORSE_TABLE = {
 };
 
 function decode(expr) {
-    function decode(expr) {
     let tempArray = []
     let counter = 0
     let word = ''
